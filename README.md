@@ -11,7 +11,6 @@ Welcome to my GitHub profile! Here are other platforms where I post and write ab
 ## 🌟 Connect with Me:
 - 📩 Email: [byashwanth77@gmail.com](mailto:byashwanth77@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/yaswanth-reddy-4ab06b22a/)
-- 🐦 [Twitter](https://twitter.com/your-twitter)
 
 ---
 Thanks for visiting my profile! 😊🚀
