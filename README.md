@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋 I'm Yaswanth Reddy Bhuma
 
-<!--
-**Giga1025/Giga1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here are my Kaggle projects and links:
 
-Here are some ideas to get you started:
+## 📊 Kaggle Profile
+🔗 [Visit my Kaggle Profile]([https://www.kaggle.com/your-kaggle-profile](https://www.kaggle.com/yaswanth1025))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ Medium
+🔗 [Visit my Medium Profile](https://medium.com/@byashwanth77)
+
+## 🌟 Connect with Me:
+- 📩 Email: [byashwanth77@gmail.com](mailto:byashwanth77@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yaswanth-reddy-4ab06b22a/)
+- 🐦 [Twitter](https://twitter.com/your-twitter)
+
+---
+Thanks for visiting my profile! 😊🚀
