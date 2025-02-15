@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Yaswanth Reddy Bhuma
 
-Welcome to my GitHub profile! Here are my Kaggle projects and links:
+Welcome to my GitHub profile! Here are other platforms where I post and write about my work:
 
 ## 📊 Kaggle Profile
 🔗 [Visit my Kaggle Profile]([https://www.kaggle.com/your-kaggle-profile](https://www.kaggle.com/yaswanth1025))
